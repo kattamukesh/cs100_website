@@ -1,0 +1,7 @@
+Katta Mukesh,Mukesh,kattam@iitbhilai.ac.in,KATTA MUKESH,2023-02-02
+Katta Mukesh,Mukesh,kattam@iitbhilai.ac.in,KATTA MUKESH,2023-02-02
+Navadeep,12345678,kattam@iitbhilai.ac.in,KATTA MUKESH,2023-02-02
+asd,12345678,tokachichus@iitbhilai.ac.in,Nava,2023-04-26
+asd,12345678,kattam@iitbhilai.ac.in,KATTA MUKESH,2023-05-02
+Hari,12345678,bendiv@iitbhilai.ac.in,Hari,2023-04-26
+Ganta,1234,tokachichus@iitbhilai.ac.in,GANTA JASWANTH,2023-05-02
