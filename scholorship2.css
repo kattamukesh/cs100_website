@@ -1,0 +1,88 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav ul li a:hover {
+	background-color: #fff;
+	color: #333;
+}
+
+.hero {
+	background-image: url('academic-excellence.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.hero-text {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 20px;
+	text-align: center;
+}
+
+.cta-button {
+	background-color: #333;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 20px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+.cta-button:hover {
+	background-color: #fff;
+	color: #333;
+}
+
+.eligibility, .application {
+	padding: 50px;
+	background-color: #f0f0f0;
+}
+
+h2 {
+	text-align: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul li {
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
