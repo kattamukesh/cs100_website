@@ -10,7 +10,9 @@ if(isset($_POST['username']) && isset($_POST['password']) && isset($_POST['email
     fwrite($file, $username . "," . $password . "," . $email . "," . $full_name . "," . $dob . "\n");
     fclose($file);
 
-    echo "User created successfully!";
+    echo "<h2>User created successfully!</h2>
+    </br>
+    <h3>Please go to Log In page</h3> ";
 } else {
     echo "Error: Please fill in all fields.";
 }
